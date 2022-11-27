@@ -1,4 +1,2 @@
-# tetris
-
-https://user-images.githubusercontent.com/95238615/204165784-f3a1afbc-bbe5-4dd1-a542-0148f36a6016.mp4
-
+Tetris
+![image](https://user-images.githubusercontent.com/95238615/204166281-37b44e45-0c03-4df9-9d79-1953972736cb.png)
