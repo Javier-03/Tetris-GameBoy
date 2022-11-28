@@ -11,8 +11,8 @@ Tetris - Game Boy
 |--------------|---------------|
 | Move left    | Left          |
 | Move right   | Right         |
-| Rotate right | Up /          |
-| Soft drop    | Down arrow    |
+| Rotate       | Up            |
+| Sharp drop   | Down          |
 
 
 
