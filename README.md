@@ -1,8 +1,6 @@
 Tetris - Game Boy
 ============
-.. image:: https://img.shields.io/github/stars/python-mario/mario?style=social
-   :target: https://github.com/python-mario/mario
-   :alt: GitHub
+
 [![Python version](https://img.shields.io/badge/python-3.10.2-blue.svg)](https://www.python.org)
 [![Pygame version](https://img.shields.io/badge/pygame-2.1.2-red.svg)](http://pygame.org)
 
