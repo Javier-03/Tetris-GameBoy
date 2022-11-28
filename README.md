@@ -35,3 +35,8 @@ Tetris - Game Boy
 
 # Start
 ![image](https://user-images.githubusercontent.com/95238615/204190620-71512251-4ef4-4def-8356-c7bb2afdd7c1.png)
+
+# Credits
+* Javier Gómez https://github.com/Javier-03
+* StanislavPetrovV https://github.com/StanislavPetrovV/Python-Tetris
+* AmaliaJulia `https://github.com/AmaliaJulia/Tetris_Menu`
