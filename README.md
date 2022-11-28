@@ -3,15 +3,17 @@ Tetris - Game Boy
 [![Python version](https://img.shields.io/badge/python-3.10.2-blue.svg)](https://www.python.org)
 [![Pygame version](https://img.shields.io/badge/pygame-2.1.2-red.svg)](http://pygame.org)
 
+<img src="img/1127.gif" width="250"> 
+ 
 ## How to play
-| Command      | Key           |
+| Command      | Key           |   
 |--------------|---------------|
 | Move left    | Left          |
 | Move right   | Right         |
 | Rotate right | Up /          |
 | Soft drop    | Down arrow    |
 
-<img src="![1127](https://user-images.githubusercontent.com/95238615/204192778-141f5a5b-ca99-4346-8269-b4d960ef96eb.gif)", width="250">
+
 
 
 
