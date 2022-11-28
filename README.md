@@ -39,4 +39,4 @@ Tetris - Game Boy
 # Credits
 * Javier Gómez https://github.com/Javier-03
 * StanislavPetrovV https://github.com/StanislavPetrovV/Python-Tetris
-* AmaliaJulia `https://github.com/AmaliaJulia/Tetris_Menu`
+* AmaliaJulia https://github.com/AmaliaJulia/Tetris_Menu
